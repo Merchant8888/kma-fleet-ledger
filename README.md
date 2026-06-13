@@ -7,10 +7,10 @@ Welcome to our official public log. This repository serves as our permanent, une
 
 | Metric Component | Current Value | Benchmark Comparison |
 | :--- | :---: | :--- |
-| **Total Account Value** | $6.9700 USD | Base Starting Asset: $3.00 |
-| **Net Return (%)** | +132.33% | Tracked via live ledger logic |
+| **Total Account Value** | $4.8400 USD | Base Starting Asset: $3.00 |
+| **Net Return (%)** | +61.33% | Tracked via live ledger logic |
 | **Active Floating Leverage** | 500x Cross | Maximum Risk Limit: 1% per play |
-| **Win/Loss Ratio** | 6 / 2 (75.0%) | Profit Factor: Multi-stage execution |
+| **Win/Loss Ratio** | 5 / 3 (62.5%) | Profit Factor: Multi-stage execution |
 
 ## 📑 Chronological Transaction Ledger
 
