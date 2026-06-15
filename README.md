@@ -7,9 +7,9 @@
 | Metric Component | Current Value | Benchmark Comparison |
 | :--- | :--- | :--- |
 | **Total Deposited Capital** | $14.00 USD | (Initial $3.00 + Recent $11.00) |
-| **Total Account Equity** | $21.32 USD | Live Liquidation Value |
-| **Net Return (%)** | +52.28% | Tracked vs Initial Deposits |
-| **Unrealized PNL (Floating)** | +$9.37 USD | 4 Active Runners |
+| **Total Account Equity** | $167.41 USD | Live Liquidation Value |
+| **Net Return (%)** | +1,095.78% | Tracked vs Initial Deposits |
+| **Unrealized PNL (Floating)** | +$157.36 USD | 2 Active Heavy Runners |
 
 ---
 
@@ -19,10 +19,8 @@
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | `000` | 2026-06-12 08:00 | USDT | DEPOSIT | N/A | N/A | N/A | N/A | $3.00 | COMPLETE |
 | `001` | 2026-06-14 21:00 | USDT | DEPOSIT | N/A | N/A | N/A | N/A | $11.00 | COMPLETE |
-| `002` | 2026-06-14 21:38 | BTC | LONG | 63712.40 | 0.0247 | 500x | RUNNING | +$1.9138 | 🟢 RUNNING |
-| `003` | 2026-06-14 21:38 | DOGE | LONG | 0.08626 | 11500 | 252x | RUNNING | +$2.7610 | 🟢 RUNNING |
-| `004` | 2026-06-14 21:38 | ETH | LONG | 1662.99 | 0.88 | 500x | RUNNING | +$2.8418 | 🟢 RUNNING |
-| `005` | 2026-06-14 21:38 | SOL | LONG | 67.47 | 11.8 | 300x | RUNNING | +$1.8560 | 🟢 RUNNING |
+| `006` | 2026-06-15 09:00 | BTC | LONG | 63,821.0 | 0.0698 | 500x | RUNNING | +$132.74 | 🟢 RUNNING |
+| `007` | 2026-06-15 09:00 | HYPE | LONG | 60.643 | 5.6 | 100x | RUNNING | +$24.61 | 🟢 RUNNING |
 
 ---
 *System synchronized natively via MacBook Air background daemon.*
